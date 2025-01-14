@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Damith Bandara
 
 ![Experience](https://img.shields.io/badge/Experience-7%20Years-green)
-![Role](https://img.shields.io/badge/iOS-Developer-orange)
+![Role](https://img.shields.io/badge/iOS-Developer-black?logo=apple)
 ![Swift](https://img.shields.io/badge/Swift-Expert-red)
-![React Native](https://img.shields.io/badge/React-Native-Expert-red)
+![React-Native](https://img.shields.io/badge/React-Native-Expert-red?logo=mobile)
 ![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blue)
 
 <!--
