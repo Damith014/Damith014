@@ -1,4 +1,9 @@
-## Hi there 👋
+# 👋 Hi, I'm Damith Bandara
+
+![Experience](https://img.shields.io/badge/Experience-6%20Years-green)
+![Role](https://img.shields.io/badge/iOS-Developer-orange)
+![Swift](https://img.shields.io/badge/Swift-Expert-red)
+![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blue)
 
 <!--
 **Damith014/Damith014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
