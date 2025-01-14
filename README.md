@@ -3,7 +3,7 @@
 ![Experience](https://img.shields.io/badge/Experience-7%20Years-green)
 ![Role](https://img.shields.io/badge/iOS-Developer-black?logo=apple)
 ![Swift](https://img.shields.io/badge/Swift-Expert-red)
-![React Native](https://img.shields.io/badge/React%20Native-Proficient-%2361DAFB?logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-Expert-%2361DAFB?logo=react&logoColor=white)
 ![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blue)
 
 <!--
@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🌐 Connect with Me
+
+## 📊 GitHub Stats
+![Damith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Damith014&show_icons=true&theme=radical)
+
+## 🤝 Let's Connect!
 - **Email:** [damithdlb@gmail.com](mailto:damithdlb@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/damithlakshithaprofile](https://www.linkedin.com/in/damithlakshithaprofile)  
 - **GitHub:** [github.com/Damith014](https://github.com/Damith014)  
 
----
-
-## 📊 GitHub Stats
-![Damith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Damith014&show_icons=true&theme=radical)
