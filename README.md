@@ -24,6 +24,10 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 ![Damith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Damith014&show_icons=true&theme=radical)
 
+## 🌟 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+
+
 ## 🤝 Let's Connect!
 - **Email:** [damithdlb@gmail.com](mailto:damithdlb@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/damithlakshithaprofile](https://www.linkedin.com/in/damithlakshithaprofile)  
