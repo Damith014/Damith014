@@ -3,7 +3,7 @@
 ![Experience](https://img.shields.io/badge/Experience-7%20Years-green)
 ![Role](https://img.shields.io/badge/iOS-Developer-black?logo=apple)
 ![Swift](https://img.shields.io/badge/Swift-Expert-red)
-![React-Native](https://img.shields.io/badge/React-Native-Expert-red?logo=mobile)
+![Technologies](https://img.shields.io/badge/Technologies-Swift%2C%20React%20Native%2C%20Java-orange)
 ![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blue)
 
 <!--
