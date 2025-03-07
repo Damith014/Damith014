@@ -20,6 +20,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my GitHub! I’m an iOS Developer with 7 years of experience in building elegant and efficient mobile solutions. I specialize in crafting intuitive user experiences and writing clean, maintainable code. Below you'll find details on the technologies and tools I've worked with to bring ideas to life.
+
+---
+
+## 🚀 About Me
+
+I'm passionate about mobile development, particularly in creating seamless user interfaces and optimizing app performance. Over the years, I have developed a strong expertise in building apps from the ground up, delivering high-quality solutions using best practices.
+
 ## 💻 Tech Stack
 
 ### Languages & Frameworks
