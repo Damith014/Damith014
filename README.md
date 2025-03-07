@@ -20,29 +20,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🚀 About Me
-iOS Developer with 7 years of experience crafting elegant and efficient mobile solutions. Passionate about creating intuitive user experiences and writing clean, maintainable code.
+## 💻 Tech Stack
 
-💻 Tech Stack
-Languages & Frameworks
+### Languages & Frameworks
+- **Swift 5**
+- **SwiftUI**
+- **UIKit**
 
-Swift Swift 5
-SwiftUI SwiftUI
-UIKit UIKit
-Development Tools & SDKs
+### Development Tools & SDKs
+- **Xcode**
+- **Firebase**
+- **Git**
 
-Xcode Xcode
-Firebase Firebase
-Git Git
-iOS Development
+---
 
-📱 APNS & Push Notifications
-🔐 Authentication & KeyChain
-💾 CoreData & Realm
-🌐 Alamofire & Networking
-🎥 AVKit & Media
-🔒 Data Encryption
-📦 CocoaPods & SPM
+## 🛠️ iOS Development Skills
+
+- **Push Notifications & APNS**: Sending, receiving, and handling push notifications in iOS apps.
+- **Authentication & Keychain**: Implementing secure authentication mechanisms and managing sensitive data using KeyChain.
+- **CoreData & Realm**: Handling local data persistence with CoreData and Realm databases.
+- **Networking (Alamofire)**: Efficient and easy-to-use networking solutions for APIs and other web services.
+- **AVKit & Media**: Integration of media players and video/audio handling in apps.
+- **Data Encryption**: Ensuring data security through encryption practices.
+- **CocoaPods & SPM (Swift Package Manager)**: Managing dependencies and external libraries.
+
+---
 
 ## 📊 GitHub Stats
 ![Damith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Damith014&show_icons=true&theme=radical)
