@@ -20,6 +20,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🚀 About Me
+iOS Developer with 7 years of experience crafting elegant and efficient mobile solutions. Passionate about creating intuitive user experiences and writing clean, maintainable code.
+
+💻 Tech Stack
+Languages & Frameworks
+
+Swift Swift 5
+SwiftUI SwiftUI
+UIKit UIKit
+Development Tools & SDKs
+
+Xcode Xcode
+Firebase Firebase
+Git Git
+iOS Development
+
+📱 APNS & Push Notifications
+🔐 Authentication & KeyChain
+💾 CoreData & Realm
+🌐 Alamofire & Networking
+🎥 AVKit & Media
+🔒 Data Encryption
+📦 CocoaPods & SPM
 
 ## 📊 GitHub Stats
 ![Damith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Damith014&show_icons=true&theme=radical)
