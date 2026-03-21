@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my GitHub! I’m an iOS Developer with 7 years of experience in building elegant and efficient mobile solutions. I specialize in crafting intuitive user experiences and writing clean, maintainable code. Below you'll find details on the technologies and tools I've worked with to bring ideas to life.
+Welcome to my GitHub! I’m an iOS Developer with 8+ years of experience in building elegant and efficient mobile solutions. I specialize in crafting intuitive user experiences and writing clean, maintainable code. Below you'll find details on the technologies and tools I've worked with to bring ideas to life.
 
 ---
 
