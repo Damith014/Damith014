@@ -13,9 +13,10 @@ Welcome to my GitHub! I'm a **Senior iOS Mobile Engineer** with 8+ years of expe
 
 I'm passionate about building scalable, production-grade iOS apps that users trust with sensitive data. Over 8+ years, I've led teams, driven architectural decisions, and shipped apps used by hundreds of thousands of users — from a national COVID-19 telemedicine platform to a major Southeast Asian banking super-app. I care deeply about clean architecture, robust testing, and engineering that scales.
 
-- 🏦 Currently: **Senior iOS Engineer @ Accenture** (Client: UOB Malaysia — TMRW Banking App)
-- 🏥 Previously: **Senior iOS Engineer @ oDoc** — telemedicine platform backed by Techstars & Stanford StartX
+- 🏦 Currently: **Senior iOS Engineer @ Accenture**
+- 🏥 Previously: **Senior iOS Engineer @ oDoc**
 - 🌏 Based in **Kuala Lumpur, Malaysia**
+- 🌐 Portfolio: [damith-folio-hub.lovable.app](https://damith-folio-hub.lovable.app/)
 - 📫 Reach me: [damithdlb@gmail.com](mailto:damithdlb@gmail.com)
 
 ---
@@ -62,6 +63,7 @@ I'm passionate about building scalable, production-grade iOS apps that users tru
 
 ## 🤝 Let's Connect!
 
-- **Email:** [damithdlb@gmail.com](mailto:damithdlb@gmail.com)
-- **LinkedIn:** [linkedin.com/in/damithlakshithaprofile](https://www.linkedin.com/in/damithlakshithaprofile)
-- **GitHub:** [github.com/Damith014](https://github.com/Damith014)
+- 🌐 **Portfolio:** [damith-folio-hub.lovable.app](https://damith-folio-hub.lovable.app/)
+- 📧 **Email:** [damithdlb@gmail.com](mailto:damithdlb@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/damithlakshithaprofile](https://www.linkedin.com/in/damithlakshithaprofile)
+- 🐙 **GitHub:** [github.com/Damith014](https://github.com/Damith014)
